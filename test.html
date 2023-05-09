@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Indian Cricket Player Analysis</title>
+    <link rel="stylesheet" href="index1.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+</head>
+<script class="data">
+    d3.csv("AllOdiPlayers.csv").then(function(data) {
+        // Define the dimensions and margins of the chart
+        var margin = {
+                top: 50,
+                right: 30,
+                bottom: 60,
+                left: 160
+            },
+            width = 1100 - margin.left - margin.right,
+            height = 500 - margin.top - margin.bottom;
+
+        // Append the svg object to the body of the page
+        var svg = d3.select("body")
+            .append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+        // X axis
+        var x = d3.scaleBand()
+            .range([0, width])
+            .domain(data.map(function(d) {
+                return d.Name;
+            }))
+            .padding(0.2);
+
+        svg.append("g")
+            .attr("transform", "translate(0," + height + ")")
+            .call(d3.axisBottom(x))
+            .append("text")
+            .attr("transform", "translate(-10,0)rotate(-45)")
+            .style("text-anchor", "end")
+            .text("Players");
+
+        // Y axis
+        var y = d3.scaleLinear()
+            .domain([0, d3.max(data, function(d) {
+                return +d.Runs;
+            })])
+            .range([height, 0]);
+        svg.append("g")
+            .call(d3.axisLeft(y));
+
+        // Bars
+        svg.selectAll("mybar")
+            .data(data)
+            .enter()
+            .append("rect")
+            .attr("x", function(d) {
+                return x(d.Name);
+            })
+            .attr("y", function(d) {
+                return y(d.Runs);
+            })
+            .attr("width", x.bandwidth())
+            .attr("height", function(d) {
+                return height - y(d.Runs);
+            })
+            .attr("fill", "orange")
+          })
+
+</script>
+<body>
+    <header>
+        <h2>
+          <a href="Home.html"><img src="logo.png" alt="logo" width="220" height="90"></a>
+        </h2>
+        <div class="top">
+                <a href="test.html">VISUALIZATION</a>
+                <a href="">INTERNATIONAL</a>
+                <a href="">DOMESTIC</a>
+                <a href="">VIDEOS</a>
+                <a href="">PLAYERS</a>
+                <a href="">NEWS</a>
+        </div>
+    <div class="dropdown" align="center">
+            <button class="drop">ALL FORMATS</button>
+            <div class="dropdown-content">
+              <a href="TestChoroplethMap.html">TEST</a>
+              <a href="ODIChoroplethMap.html">ODI</a>
+              <a href="T20ChoroplethMap.html">T20</a>
+            </div>
+    </div>
+        
+    </header>
+    <br><br><br><br>
+<h1 class="h">Indian Cricket Players Runs Scored from 2005-2012</h1><br><br>
+<footer>
+    <a>&copy; Indian Cricket </a>
+      <a href="">About US</a>
+      <a href="">Contact US</a>
+      <div class="media">
+          <a href=""><i class="fa fa-youtube-play"></i></a>
+          <a href=""><i class="fa fa-github"></i></a>
+          <a href=""><i class="fa fa-twitter-square"></i></a>
+          <a href=""><i class="fa fa-facebook-f"></i></a>
+          <a href=""><i class="fa fa-instagram"></i></a>
+      </div>
+</footer>
+</body>
+
+</html>

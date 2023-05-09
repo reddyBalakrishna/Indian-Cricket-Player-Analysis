@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>T20 Choropleth Map of Indian Men Cricketers</title>
+    <link rel="stylesheet" href="index1.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+      /* Style the map colors and borders */
+      .state {
+        fill: #ccc;
+        stroke: #fff;
+        stroke-width: 1px;
+      }
+
+      /* Style the tooltip */
+      .tooltip {
+        position: absolute;
+        text-align: center;
+        padding: 6px;
+        font-size: 12px;
+        background: white;
+        border: 1px solid #999;
+        opacity: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h2>
+        <a href="Home.html"><img src="logo.png" alt="logo" width="220" height="90"></a>
+      </h2>
+      <div class="top">
+              <a href="test.html">VISUALIZATION</a>
+              <a href="">INTERNATIONAL</a>
+              <a href="">DOMESTIC</a>
+              <a href="">VIDEOS</a>
+              <a href="">PLAYERS</a>
+              <a href="">NEWS</a>
+      </div>
+      
+  </header><br><br><br><br><br><br>
+  <footer>
+    <a>&copy; Indian Cricket </a>
+      <a href="">About US</a>
+      <a href="">Contact US</a>
+      <div class="media">
+          <a href=""><i class="fa fa-youtube-play"></i></a>
+          <a href=""><i class="fa fa-github"></i></a>
+          <a href=""><i class="fa fa-twitter-square"></i></a>
+          <a href=""><i class="fa fa-facebook-f"></i></a>
+          <a href=""><i class="fa fa-instagram"></i></a>
+      </div>
+  </footer>
+    <h1 style="color:maroon">Choropleth Map of Indian Men T20 Cricketers</h1><br>
+    <svg width="800" height="600"></svg>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+	<div class="tooltip"></div>
+    <script>
+      // Load the data from a CSV file
+      d3.csv("CappedIndianT20MenCricketers.csv").then(function(PlayerName) {
+	  console.log(PlayerName); 
+      // Group players by state
+      const stateCounts = d3.group(PlayerName, d => d.StateName);
+		
+	  console.log(stateCounts); 
+		
+	  // Create a tooltip element
+      const tooltip = d3.select(".tooltip");
+
+      // Create an object to hold the counts for each state
+      const countsByState = new Map();
+	  console.log(countsByState); 
+      // Loop through each state and count the number of players
+      stateCounts.forEach((PlayerName, StateName) => {
+        countsByState[StateName] = PlayerName.length;
+      });
+	  console.log(countsByState);
+
+      // Define the color scale for the map
+      const colorScale = d3.scaleSequential()
+          .domain([0, d3.max(Object.values(countsByState))])
+          .interpolator(d3.interpolateBlues);
+		  
+		  console.log(colorScale);
+
+        
+		  
+	  var svg = d3.select("svg");
+
+      // Load the map data from a JSON file
+      d3.json("india_state.geojson").then(function(map) {
+      // Create a projection for the map
+      const projection = d3.geoMercator()
+            .fitSize([750, 540], map);
+
+      // Create a path generator for the map
+      const path = d3.geoPath(projection);
+
+      // Draw the map
+      const states = svg.selectAll(".state")
+      .data(map.features)
+      .join("path")
+      .attr("class", "state")
+      .attr("d", path)
+      .style("stroke", "#00008B")
+      .style("fill", d => colorScale(countsByState[d.properties.NAME_1]))
+      .on("mousemove", (event, d) => {
+        tooltip
+          .html(`<b>${d.properties.NAME_1}: <br>${countsByState[d.properties.NAME_1] || 0}</b>`)
+          .style("opacity", 1)
+          .style("left", `${event.pageX + 10}px`)
+          .style("top", `${event.pageY - 25}px`);
+      })
+      .on("mouseout", function() {
+        tooltip.style("opacity", 0);
+      });
+
+    console.log(states);
+        });
+      });
+    </script>
+  </body>
+</html>
