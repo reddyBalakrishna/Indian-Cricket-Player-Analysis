@@ -1,0 +1,84 @@
+Format,Cap,Country,StateName,PlayerName,First,Last,Matches,Batting_Runs,Batting_Highest_run,Batting_Average,Bowling_Balls,Bowling_Maiden_overs,Bowling_Runs_conceded,Bowling_Wickets,Bowling_Average,Fielding_Catches,Fielding_Stumping
+T20,1,India,Maharashtra,Ajit Agarkar,2006,2007,4,15,14,7.5,63,,,3,28.33,0,0
+T20,2,India,Jharkhand,Mahendra Singh Dhoni,2006,2019,98,1617,56,37.6,0,,,0,0,57,34
+T20,3,India,Punjab,Harbhajan Singh,2006,2016,28,108,21,13.5,612,,,25,25.32,7,0
+T20,4,India,Tamil Nadu,Dinesh Karthik,2006,2019,32,399,48,33.25,0,,,0,0,14,5
+T20,5,India,Maharashtra,Zaheer Khan,2006,2012,17,13,9,6.5,352,,,17,26.35,2,0
+T20,6,India,Punjab,Dinesh Mongia,2006,2006,1,38,38,38,0,,,0,0,1,0
+T20,7,India,Gujarat,Irfan Pathan,2006,2009,24,172,33,24.57,462,,,28,22.07,2,0
+T20,8,India,Uttar Pradesh,Suresh Raina,2006,2018,78,1605,101,29.18,349,,,13,34,42,0
+T20,9,India,Delhi,Virender Sehwag,2006,2013,19,394,68,21.88,6,,,0,0,2,0
+T20,10,India,Kerala,S Sreesanth,2006,2008,10,20,19,20,204,,,7,41.14,2,0
+T20,11,India,Maharashtra,Sachin Tendulkar,2006,2006,1,10,10,10,15,,,1,12,1,0
+T20,12,India,Delhi,Gautam Gambhir,2007,2012,37,932,75,27.41,0,,,0,0,11,0
+T20,13,India,Uttar Pradesh,R P Singh,2007,2009,10,3,2,0,198,,,15,15,2,0
+T20,14,India,Karnataka,Robin Uthappa,2007,2015,13,249,50,24.9,0,,,0,0,2,0
+T20,15,India,Punjab,Yuvraj Singh,2007,2017,58,1177,77,28.02,424,,,28,17.82,12,0
+T20,16,India,Haryana,Joginder Sharma,2007,2007,4,0,0,0,87,,,4,34.5,2,0
+T20,17,India,Maharashtra,Rohit Sharma,2007,2020,107,2773,118,32.62,68,,,1,113,40,0
+T20,18,India,Gujarat,Yusuf Pathan,2007,2011,22,236,37,18.15,305,,,13,33.69,9,0
+T20,19,India,Tamil Nadu,Murali Kartik,2007,2007,1,0,0,0,24,,,0,0,0,0
+T20,20,India,Uttar Pradesh,Praveen Kumar,2008,2012,10,7,6,2.33,156,,,8,24.12,1,0
+T20,21,India,Delhi,Ishant Sharma,2008,2013,14,8,5,8,278,,,8,50,4,0
+T20,22,India,Gujarat,Ravindra Jadeja,2009,2020,50,217,44,15.5,973,,,39,29.53,21,0
+T20,23,India,Telangana,Pragyan Ojha,2009,2010,6,10,10,0,126,,,10,13.2,1,0
+T20,24,India,West Bengal,Ashok Dinda,2009,2010,9,22,19,22,180,,,17,14.41,1,0
+T20,25,India,Delhi,Ashish Nehra,2009,2017,27,28,22,5.6,588,,,34,22.29,4,0
+T20,26,India,Uttar Pradesh,Sudeep Tyagi,2009,2009,1,0,0,0,12,,,0,0,1,0
+T20,27,India,Tamil Nadu,Murali Vijay,2010,2015,9,169,48,18.77,12,,,0,0,3,0
+T20,28,India,Uttar Pradesh,Piyush Chawla,2010,2012,7,0,0,0,138,,,4,37.75,2,0
+T20,29,India,Karnataka,Vinay Kumar,2010,2012,9,2,2,0,189,,,10,24.7,1,0
+T20,30,India,Tamil Nadu,Ravichandran Ashwin,2010,2017,46,123,31,30.75,1026,,,52,22.94,8,0
+T20,31,India,Delhi,Virat Kohli,2010,2020,85,2928,94,50.48,146,,,4,49.5,42,0
+T20,32,India,Madhya Pradesh,Naman Ojha,2010,2010,2,12,10,6,0,,,0,0,0,0
+T20,33,India,Haryana,Amit Mishra,2010,2017,10,0,0,0,228,,,16,15,1,0
+T20,34,India,Gujarat,Munaf Patel,2011,2011,3,0,0,0,60,,,4,21.5,0,0
+T20,35,India,Tamil Nadu,Subramaniam Badrinath,2011,2011,1,43,43,43,0,,,0,0,0,0
+T20,36,India,Delhi,Shikhar Dhawan,2011,2020,64,1669,92,28.28,0,,,0,0,19,0
+T20,37,India,Gujarat,Parthiv Patel,2011,2011,2,36,26,18,0,,,0,0,1,0
+T20,38,India,Karnataka,Rahul Dravid,2011,2011,1,31,31,31,0,,,0,0,0,0
+T20,39,India,Maharashtra,Ajinkya Rahane,2011,2016,20,375,61,20.83,0,,,0,0,16,0
+T20,40,India,West Bengal,Manoj Tiwary,2011,2015,3,15,15,15,0,,,0,0,2,0
+T20,41,India,Punjab,Rahul Sharma,2012,2012,2,0,0,0,44,,,3,18.66,0,0
+T20,42,India,Maharashtra,Umesh Yadav,2012,2019,7,2,2,2,150,,,9,24.33,3,0
+T20,43,India,Tamil Nadu,Lakshmipathy Balaji,2012,2012,5,0,0,0,96,,,10,12.1,0,0
+T20,44,India,Delhi,Parvinder Awana,2012,2012,2,0,0,0,36,,,0,0,0,0
+T20,45,India,Uttar Pradesh,Bhuvneshwar Kumar,2012,2019,43,23,9,5.75,926,,,41,26.53,6,0
+T20,46,India,West Bengal,Mohammed Shami,2014,2020,12,0,0,0,262,,,12,35.66,0,0
+T20,47,India,Haryana,Mohit Sharma,2014,2015,8,3,3,0,138,,,6,30.83,1,0
+T20,48,India,Andhra Pradesh,Ambati Rayudu,2014,2016,6,42,20,10.5,0,,,0,0,4,0
+T20,49,India,Uttar Pradesh,Karn Sharma,2014,2014,1,0,0,0,24,,,1,28,0,0
+T20,50,India,Karnataka,Stuart Binny,2015,2016,3,35,24,17.5,30,,,1,54,0,0
+T20,51,India,Maharashtra,Kedar Jadhav,2015,2017,9,122,58,20.33,0,,,0,0,1,0
+T20,52,India,Karnataka,Manish Pandey,2015,2020,39,709,79,44.31,0,,,0,0,9,0
+T20,53,India,Gujarat,Axar Patel,2015,2018,11,68,20,17,234,,,9,29.44,5,0
+T20,54,India,Punjab,Sandeep Sharma,2015,2015,2,1,1,0,42,,,1,73,0,0
+T20,55,India,Kerala,Sanju Samson,2015,2020,7,85,23,11.85,0,,,0,0,3,1
+T20,56,India,Karnataka,Sreenath Aravind,2015,2015,1,0,0,0,22,,,1,44,0,0
+T20,57,India,Gujarat,Jasprit Bumrah,2016,2020,50,8,7,4,1075,,,59,20.25,7,0
+T20,58,India,Gujarat,Hardik Pandya,2016,2020,43,388,42,18.47,701,,,38,25.68,27,0
+T20,59,India,Delhi,Pawan Negi,2016,2016,1,0,0,0,18,,,1,16,2,0
+T20,60,India,Haryana,Yuzvendra Chahal,2016,2020,45,5,3,2.5,1053,,,59,24.67,9,0
+T20,61,India,Himachal Pradesh,Rishi Dhawan,2016,2016,1,1,1,0,24,,,1,42,2,0
+T20,62,India,Punjab,Mandeep Singh,2016,2016,3,87,52,43.5,0,,,0,0,1,0
+T20,63,India,Karnataka,K L Rahul,2016,2020,45,1542,110,44.05,0,,,0,0,17,1
+T20,64,India,Gujarat,Jaydev Unadkat,2016,2018,10,0,0,0,208,,,14,21.5,3,0
+T20,65,India,Maharashtra,Dhawal Kulkarni,2016,2016,2,1,1,0,48,,,3,18.33,0,0
+T20,66,India,Punjab,Barinder Sran,2016,2016,2,0,0,0,48,,,6,6.83,0,0
+T20,67,India,Jammu and Kashmir,Parvez Rasool,2017,2017,1,5,5,5,24,,,1,32,0,0
+T20,68,India,Uttarakhand,Rishabh Pant,2017,2020,28,410,65,20.5,0,,,0,0,7,4
+T20,69,India,Uttar Pradesh,Kuldeep Yadav,2017,2020,21,21,16,20,453,,,39,13.76,8,0
+T20,70,India,Maharashtra,Shreyas Iyer,2017,2020,24,429,62,26.81,0,,,0,0,8,0
+T20,71,India,Telangana,Mohammed Siraj,2017,2018,3,0,0,0,72,,,3,49.33,1,0
+T20,72,India,Tamil Nadu,Washington Sundar,2017,2020,26,40,14,6.66,528,,,21,29.14,8,0
+T20,73,India,Maharashtra,Shardul Thakur,2018,2020,17,59,22,59,351,,,23,22.73,4,0
+T20,74,India,Tamil Nadu,Vijay Shankar,2018,2019,9,101,43,25.25,126,,,5,38.2,2,0
+T20,75,India,Punjab,Siddarth Kaul,2018,2019,3,0,0,0,58,,,4,21,0,0
+T20,76,India,Rajasthan,Deepak Chahar,2018,2020,13,1,1,0,287,,,18,20.11,0,0
+T20,77,India,Rajasthan,Khaleel Ahmed,2018,2019,14,1,1,0,312,,,13,35.3,3,0
+T20,78,India,Gujarat,Krunal Pandya,2018,2019,18,121,26,24.2,398,,,14,38.42,7,0
+T20,79,India,Punjab,Mayank Markande,2018,2019,1,0,0,0,24,,,0,0,0,0
+T20,80,India,Haryana,Navdeep Saini,2019,2020,10,11,11,0,197,,,13,18.07,3,0
+T20,81,India,Maharashtra,Rahul Chahar,2019,2019,1,0,0,0,18,,,1,27,0,0
+T20,82,India,Maharashtra,Shivam Dube,2019,2020,13,105,54,17.5,129,,,5,43.2,8,0
+T20,83,India,Tamil Nadu,T Natarajan,2020,2020,3,0,0,0,72,,,6,13.83,0,0

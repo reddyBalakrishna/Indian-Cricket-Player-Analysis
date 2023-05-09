@@ -1,0 +1,277 @@
+﻿Format,Cap,Country,StateName,PlayerName,First,Last,Matches,Batting_Runs,Batting_Highest_run,Batting_Average,Bowling_Balls,Bowling_Maiden_overs,Bowling_Runs_conceded,Bowling_Wickets,Bowling_Average,Fielding_Catches,Fielding_Stumping
+Test,1,India,Uttar Pradesh,Amar Singh,1932,1936,7,292,51,22.46,,,,28,30.64,3,0
+Test,2,India,Maharashtra,Sorabji Colah,1932,1933,2,69,31,17.25,,,,0,0,2,0
+Test,3,India,Maharashtra,Jahangir Khan,1932,1936,4,39,13,5.57,,,,4,63.75,4,0
+Test,4,India,Uttar Pradesh,Lall Singh,1932,1932,1,44,29,22,,,,0,0,1,0
+Test,5,India,Punjab,Naoomal Jeoomal,1932,1934,3,108,43,27,,,,2,34,0,0
+Test,6,India,Maharashtra,Janardan Navle,1932,1933,2,42,13,10.5,,,,0,0,1,0
+Test,7,India,Madhya Pradesh,C K Nayudu,1932,1936,7,350,81,25,,,,9,42.88,4,0
+Test,8,India,Punjab,Nazir Ali,1932,1934,2,30,13,7.5,,,,4,20.75,0,0
+Test,9,India,Uttar Pradesh,Mohammad Nissar,1932,1936,6,55,14,6.87,,,,25,28.28,2,0
+Test,10,India,Maharashtra,Phiroze Palia,1932,1936,2,29,16,9.66,,,,0,0,0,0
+Test,11,India,Punjab,Wazir Ali,1932,1936,7,237,42,16.92,,,,0,0,1,0
+Test,12,India,Uttar Pradesh,Lala Amarnath,1933,1952,24,878,118,24.38,,,,45,32.91,13,0
+Test,13,India,Madhya Pradesh,L P Jai,1933,1933,1,19,19,9.5,,,,0,0,0,0
+Test,14,India,Maharashtra,Rustomji Jamshedji,1933,1933,1,5,4,0,,,,3,45.66,2,0
+Test,15,India,Maharashtra,Vijay Merchant,1933,1951,10,859,154,47.72,,,,0,0,7,0
+Test,16,India,Maharashtra,Ladha Ramji,1933,1933,1,1,1,0.5,,,,0,0,1,0
+Test,17,India,Uttar Pradesh,Dilawar Hussain,1934,1936,3,254,59,42.33,,,,0,0,6,1
+Test,18,India,Tamil Nadu,M J Gopalan,1934,1934,1,18,11,18,,,,1,39,3,0
+Test,19,India,Punjab,Mushtaq Ali,1934,1952,11,612,112,32.21,,,,3,67.33,7,0
+Test,20,India,Andhra Pradesh,C S Nayudu,1934,1952,11,147,36,9.18,,,,2,179.5,3,0
+Test,21,India,Punjab,Yuvraj of Patiala,1934,1934,1,84,60,42,,,,0,0,2,0
+Test,22,India,Maharashtra,Dattaram Hindlekar,1936,1946,4,71,26,14.2,,,,0,0,3,0
+Test,23,India,Andhra Pradesh,Maharajkumar of Vizianagram,1936,1936,3,33,19,8.25,,,,0,0,1,0
+Test,24,India,Maharashtra,Khershed Meherhomji,1936,1936,1,0,0,0,,,,0,0,1,0
+Test,25,India,Tamil Nadu,Cotar Ramaswami,1936,1936,2,170,60,56.66,,,,0,0,0,0
+Test,26,India,Punjab,Baqa Jilani,1936,1936,1,16,12,16,,,,0,0,0,0
+Test,27,India,Punjab,Gul Mohammad,1946,1952,8,166,34,11.06,,,,2,12,3,0
+Test,28,India,Maharashtra,Vijay Hazare,1946,1953,30,2192,164,47.65,,,,20,61,11,0
+Test,29,India,Uttar Pradesh,Abdul Hafeez,1946,1946,3,80,43,16,,,,0,0,0,0
+Test,30,India,Maharashtra,Vinoo Mankad,1946,1959,44,2109,231,31.47,,,,162,32.32,33,0
+Test,31,India,Maharashtra,Rusi Modi,1946,1952,10,736,112,46,,,,0,0,3,0
+Test,32,India,Delhi,Nawab of Pataudi Sr,1946,1946,3,55,22,11,,,,0,0,1,0
+Test,33,India,Maharashtra,Sadashiv Shinde,1946,1952,7,85,14,14.16,,,,12,59.75,0,0
+Test,34,India,Maharashtra,Chandu Sarwate,1946,1951,9,208,37,13,,,,3,124.66,0,0
+Test,35,India,Maharashtra,Ranga Sohoni,1946,1951,4,83,29,16.6,,,,2,101,2,0
+Test,36,India,Maharashtra,Hemu Adhikari,1947,1959,21,872,114,31.14,,,,3,27.33,8,0
+Test,37,India,Maharashtra,Jenni Irani,1947,1947,2,3,2,3,,,,0,0,2,1
+Test,38,India,Maharashtra,Gogumal Kishenchand,1947,1952,5,89,44,8.9,,,,0,0,1,0
+Test,39,India,Maharashtra,Khandu Rangnekar,1947,1948,3,33,18,5.5,,,,0,0,1,0
+Test,40,India,Punjab,Amir Elahi,1947,1947,1,17,13,8.5,,,,0,0,0,0
+Test,41,India,Maharashtra,Dattu Phadkar,1947,1959,31,1229,123,32.34,,,,62,36.85,21,0
+Test,42,India,Uttar Pradesh,Kanwar Rai Singh,1948,1948,1,26,24,13,,,,0,0,0,0
+Test,43,India,West Bengal,Probir Sen,1948,1952,14,165,25,11.78,,,,0,0,20,11
+Test,44,India,Tamil Nadu,C R Rangachari,1948,1948,4,8,8,2.66,,,,9,54.77,0,0
+Test,45,India,Gujarat,Khanmohammed Ibrahim,1948,1949,4,169,85,21.12,,,,0,0,0,0
+Test,46,India,Maharashtra,Keki Tarapore,1948,1948,1,2,2,2,,,,0,0,0,0
+Test,47,India,Maharashtra,Polly Umrigar,1948,1962,59,3631,223,42.22,,,,35,42.08,33,0
+Test,48,India,West Bengal,Montu Banerjee,1949,1949,1,0,0,0,,,,5,36.2,3,0
+Test,49,India,Punjab,Ghulam Ahmed,1949,1959,22,192,50,8.72,,,,68,30.17,11,0
+Test,50,India,West Bengal,Nirode Chowdhury,1949,1951,2,3,3,3,,,,1,205,0,0
+Test,51,India,Maharashtra,Madhusudan Rege,1949,1949,1,15,15,7.5,,,,0,0,1,0
+Test,52,India,West Bengal,Shute Banerjee,1949,1949,1,13,8,6.5,,,,5,25.4,0,0
+Test,53,India,Maharashtra,Nana Joshi,1951,1960,12,207,52,10.89,,,,0,0,18,9
+Test,54,India,West Bengal,Pankaj Roy,1951,1960,43,2442,173,32.56,,,,1,66,16,0
+Test,55,India,Karnataka,C D Gopinath,1951,1960,8,242,50,22,,,,1,11,2,0
+Test,56,India,Maharashtra,Madhav Mantri,1951,1955,4,67,39,9.57,,,,0,0,8,1
+Test,57,India,Gujarat,Buck Divecha,1952,1952,5,60,26,12,,,,11,32.81,5,0
+Test,58,India,Maharashtra,Subhash Gupte,1952,1961,36,183,21,6.31,,,,149,29.55,14,0
+Test,59,India,Maharashtra,Vijay Manjrekar,1952,1965,55,3208,189,39.12,,,,1,44,19,2
+Test,60,India,Gujarat,Datta Gaekwad,1952,1961,11,350,52,18.42,,,,0,0,5,0
+Test,61,India,Maharashtra,Gulabrai Ramchand,1952,1960,33,1180,109,24.58,,,,41,46.31,20,0
+Test,62,India,Gujarat,Hiralal Gaekwad,1952,1952,1,22,14,11,,,,0,0,0,0
+Test,63,India,Maharashtra,Shah Nyalchand,1952,1952,1,7,6,7,,,,3,32.33,0,0
+Test,64,India,Maharashtra,Madhav Apte,1952,1953,7,542,163,49.27,,,,0,0,2,0
+Test,65,India,Maharashtra,Bal Dani,1952,1952,1,0,0,0,,,,1,19,1,0
+Test,66,India,Karnataka,Vijay Rajindernath,1952,1952,1,0,0,0,,,,0,0,0,4
+Test,67,India,Maharashtra,Ebrahim Maka,1952,1953,2,2,2,0,,,,0,0,2,1
+Test,68,India,Gujarat,Deepak Shodhan,1952,1953,3,181,110,60.33,,,,0,0,1,0
+Test,69,India,Maharashtra,Chandrasekhar Gadkari,1953,1955,6,129,50,21.5,,,,0,0,6,0
+Test,70,India,Maharashtra,Jayasinghrao Ghorpade,1953,1959,8,229,41,15.26,,,,0,0,4,0
+Test,71,India,Rajasthan,Pananmal Punjabi,1955,1955,5,164,33,16.4,,,,0,0,5,0
+Test,72,India,Maharashtra,Naren Tamhane,1955,1961,21,225,54,10.22,,,,0,0,35,16
+Test,73,India,Madhya Pradesh,Prakash Bhandari,1955,1956,3,77,39,19.25,,,,0,0,1,0
+Test,74,India,Gujarat,Jasu Patel,1955,1960,7,25,12,2.77,,,,29,21.96,2,0
+Test,75,India,Punjab,A G Kripal Singh,1955,1964,14,422,100,28.13,,,,10,58.4,4,0
+Test,76,India,Tamil Nadu,Narain Swamy,1955,1955,1,0,0,0,,,,0,0,0,0
+Test,77,India,Gujarat,Nari Contractor,1955,1962,31,1611,108,31.58,,,,1,80,18,0
+Test,78,India,Delhi,Vijay Mehra,1955,1964,8,329,62,25.3,,,,0,0,1,0
+Test,79,India,Maharashtra,Sadashiv Patil,1955,1955,1,14,14,0,,,,2,25.5,1,0
+Test,80,India,Maharashtra,Bapu Nadkarni,1955,1968,41,1414,122,25.7,,,,88,29.07,22,0
+Test,81,India,Karnataka,Gundibail Sunderam,1955,1956,2,3,3,0,,,,3,55.33,0,0
+Test,82,India,Maharashtra,Chandrakant Patankar,1956,1956,1,14,13,14,,,,0,0,3,1
+Test,83,India,Maharashtra,Chandu Borde,1958,1969,55,3061,177,35.59,,,,52,46.48,37,0
+Test,84,India,Uttar Pradesh,Ghulam Guard,1958,1960,2,11,7,5.5,,,,3,60.66,2,0
+Test,85,India,Maharashtra,Manohar Hardikar,1958,1958,2,56,32,18.66,,,,1,55,3,0
+Test,86,India,Maharashtra,Vasant Ranjane,1958,1964,7,40,16,6.66,,,,19,34.15,1,0
+Test,87,India,Tamil Nadu,Ramnath Kenny,1959,1960,5,245,62,27.22,,,,0,0,1,0
+Test,88,India,Tamil Nadu,Surendranath,1959,1961,11,136,27,10.46,,,,26,40.5,4,0
+Test,89,India,Maharashtra,Apoorva Sengupta,1959,1959,1,9,8,4.5,,,,0,0,0,0
+Test,90,India,Maharashtra,Ramakant Desai,1959,1968,28,418,85,13.48,,,,74,37.31,9,0
+Test,91,India,Karnataka,M L Jaisimha,1959,1971,39,2056,129,30.68,,,,9,92.11,17,0
+Test,92,India,Maharashtra,Arvind Apte,1959,1959,1,15,8,7.5,,,,0,0,0,0
+Test,93,India,Telangana,Abbas Ali Baig,1959,1967,10,428,112,23.77,,,,0,0,6,0
+Test,94,India,Karnataka,Venatappa Muddiah,1959,1960,2,11,11,5.5,,,,3,44.66,0,0
+Test,95,India,Maharashtra,Salim Durani,1960,1973,29,1202,104,25.04,,,,75,35.42,14,0
+Test,96,India,Karnataka,Budhi Kunderan,1960,1967,18,981,192,32.7,,,,0,0,23,7
+Test,97,India,Punjab,A G Milkha Singh,1960,1961,4,92,35,15.33,,,,0,0,2,0
+Test,98,India,Punjab,Man Sood,1960,1960,1,3,3,1.5,,,,0,0,0,0
+Test,99,India,Gujarat,Rusi Surti,1960,1969,26,1263,99,28.7,,,,42,46.71,26,0
+Test,100,India,Maharashtra,Baloo Gupte,1961,1965,3,28,17,28,,,,3,116.33,0,0
+Test,101,India,Maharashtra,Vaman Kumar,1961,1961,2,6,6,3,,,,7,28.85,2,0
+Test,102,India,Maharashtra,Farokh Engineer,1961,1975,46,2611,121,31.08,,,,0,0,66,16
+Test,103,India,Goa,Dilip Sardesai,1961,1972,30,2001,212,39.23,,,,0,0,4,0
+Test,104,India,Haryana,Mansoor Ali Khan Pataudi,1961,1975,46,2793,203,34.91,,,,1,88,27,0
+Test,105,India,Karnataka,EAS Prasanna,1962,1978,49,735,37,11.48,,,,189,30.38,18,0
+Test,106,India,Karnataka,Bhagwat Chandrasekhar,1964,1979,58,167,22,4.07,,,,242,29.74,25,0
+Test,107,India,Punjab,Rajinder Pal,1964,1964,1,6,3,6,,,,0,0,0,0
+Test,108,India,Uttar Pradesh,Hanumant Singh,1964,1969,14,686,105,31.18,,,,0,0,11,0
+Test,109,India,Gujarat,Kumar Indrajitsinhji,1964,1969,4,51,23,8.5,,,,0,0,6,3
+Test,110,India,Tamil Nadu,Srinivas Venkataraghavan,1965,1983,57,748,64,11.68,,,,156,36.11,44,0
+Test,111,India,Karnataka,Venkataraman Subramanya,1965,1968,9,263,75,18.78,,,,3,67,9,0
+Test,112,India,Maharashtra,Ajit Wadekar,1966,1974,37,2113,143,31.07,,,,0,0,46,0
+Test,113,India,Punjab,Bishan Singh Bedi,1967,1979,67,656,50,8.98,,,,266,28.71,26,0
+Test,114,India,West Bengal,Subroto Guha,1967,1969,4,17,6,3.4,,,,3,103.66,2,0
+Test,115,India,Uttar Pradesh,Ramesh Saxena,1967,1967,1,25,16,12.5,,,,0,0,0,0
+Test,116,India,Telangana,Abid Ali,1967,1974,29,1018,81,20.36,,,,47,42.12,32,0
+Test,117,India,Maharashtra,Umesh Kulkarni,1967,1968,4,13,7,4.33,,,,5,47.6,0,0
+Test,118,India,Uttar Pradesh,Chetan Chauhan,1969,1981,40,2084,97,31.57,,,,2,53,38,0
+Test,119,India,Maharashtra,Ashok Mankad,1969,1978,22,991,97,25.41,,,,0,0,12,0
+Test,120,India,Maharashtra,Ajit Pai,1969,1969,1,10,9,5,,,,2,15.5,0,0
+Test,121,India,West Bengal,Ambar Roy,1969,1969,4,91,48,13,,,,0,0,0,0
+Test,122,India,Jammu and Kashmir,Ashok Gandotra,1969,1969,2,54,18,13.5,,,,0,0,1,0
+Test,123,India,Maharashtra,Eknath Solkar,1969,1977,27,1068,102,25.42,,,,18,59.44,53,0
+Test,124,India,Karnataka,Gundappa Viswanath,1969,1983,91,6080,222,41.93,,,,1,46,63,0
+Test,125,India,Punjab,Mohinder Amarnath,1969,1988,69,4378,138,42.5,,,,32,55.68,47,0
+Test,126,India,Gujarat,Kenia Jayantilal,1971,1971,1,5,5,5,,,,0,0,0,0
+Test,127,India,Andhra Pradesh,Pochiah Krishnamurthy,1971,1971,5,33,20,5.5,,,,0,0,7,1
+Test,128,India,Maharashtra,Sunil Gavaskar,1971,1987,125,10122,236,51.12,,,,1,206,108,0
+Test,129,India,Maharashtra,Ramnath Parkar,1972,1973,2,80,35,20,,,,0,0,0,0
+Test,130,India,Punjab,Madan Lal,1974,1986,39,1042,74,22.65,,,,71,40.08,15,0
+Test,131,India,Gujarat,Brijesh Patel,1974,1977,21,972,115,29.45,,,,0,0,17,0
+Test,132,India,Maharashtra,Sudhir Naik,1974,1975,3,141,77,23.5,,,,0,0,0,0
+Test,133,India,Maharashtra,Hemant Kanitkar,1974,1974,2,111,65,27.75,,,,0,0,0,0
+Test,134,India,Delhi,Parthasarathy Sharma,1974,1977,5,187,54,18.7,,,,0,0,1,0
+Test,135,India,Maharashtra,Anshuman Gaekwad,1975,1985,40,1985,201,30.07,,,,2,93.5,15,0
+Test,136,India,Gujarat,Karsan Ghavri,1975,1981,39,913,86,21.23,,,,109,33.54,16,0
+Test,137,India,Punjab,Surinder Amarnath,1976,1978,10,550,124,30.55,,,,1,5,4,0
+Test,138,India,Karnataka,Syed Kirmani,1976,1986,88,2759,102,27.04,,,,1,13,160,38
+Test,139,India,Maharashtra,Dilip Vengsarkar,1976,1992,116,6868,166,42.13,,,,0,0,78,0
+Test,140,India,Madhya Pradesh,Yajurvindra Singh,1977,1979,4,109,43,18.16,,,,0,0,11,0
+Test,141,India,Haryana,Kapil Dev,1978,1994,131,5248,163,31.05,,,,434,29.64,64,0
+Test,142,India,Andhra Pradesh,Madireddy Narasimha Rao,1979,1979,4,46,20,9.2,,,,3,75.66,8,0
+Test,143,India,Gujarat,Dhiraj Parsana,1979,1979,2,1,1,0.5,,,,1,50,0,0
+Test,144,India,Andhra Pradesh,Bharath Reddy,1979,1979,4,38,21,9.5,,,,0,0,9,2
+Test,145,India,Punjab,Yashpal Sharma,1979,1983,37,1606,140,33.45,,,,1,17,16,0
+Test,146,India,Gujarat,Dilip Doshi,1979,1983,33,129,20,4.6,,,,114,30.71,10,0
+Test,147,India,Andhra Pradesh,Shivlal Yadav,1979,1987,35,403,43,14.39,,,,102,35.09,10,0
+Test,148,India,Karnataka,Roger Binny,1979,1987,27,830,83,23.05,,,,47,32.63,11,0
+Test,149,India,Maharashtra,Sandeep Patil,1980,1984,29,1588,174,36.93,,,,9,26.66,12,0
+Test,150,India,Bihar,Kirti Azad,1981,1983,7,135,24,11.25,,,,3,124.33,3,0
+Test,151,India,Maharashtra,Ravi Shastri,1981,1992,80,3830,206,35.79,,,,151,40.96,36,0
+Test,152,India,Punjab,Yograj Singh,1981,1981,1,10,6,5,,,,1,63,0,0
+Test,153,India,Tamil Nadu,Tirumalai Srinivasan,1981,1981,1,48,29,24,,,,0,0,0,0
+Test,154,India,Tamil Nadu,Krishnamachari Srikkanth,1981,1992,43,2062,123,29.88,,,,0,0,40,0
+Test,155,India,Punjab,Ashok Malhotra,1982,1985,7,226,72,25.11,,,,0,0,2,0
+Test,156,India,West Bengal,Pranab Roy,1982,1982,2,71,60,35.5,,,,0,0,1,0
+Test,157,India,Maharashtra,Ghulam Parkar,1982,1982,1,7,6,3.5,,,,0,0,1,0
+Test,158,India,Karnataka,Suru Nayak,1982,1982,2,19,11,9.5,,,,1,132,1,0
+Test,159,India,West Bengal,Arun Lal,1982,1989,16,729,93,26.03,,,,0,0,13,0
+Test,160,India,Uttar Pradesh,Rakesh Shukla,1982,1982,1,0,0,0,,,,2,76,0,0
+Test,161,India,Punjab,Maninder Singh,1982,1993,35,99,15,3.8,,,,88,37.36,9,0
+Test,162,India,Punjab,Balwinder Sandhu,1983,1983,8,214,71,30.57,,,,10,55.7,1,0
+Test,163,India,Tamil Nadu,T A Sekhar,1983,1983,2,0,0,0,,,,0,0,0,0
+Test,164,India,Tamil Nadu,Laxman Sivaramakrishnan,1983,1986,9,130,25,16.25,,,,26,44.03,9,0
+Test,165,India,Karnataka,Raghuram Bhat,1983,1983,2,6,6,3,,,,4,37.75,0,0
+Test,166,India,Punjab,Navjot Singh Sidhu,1983,1999,51,3202,201,42.13,,,,0,0,9,0
+Test,167,India,Haryana,Chetan Sharma,1984,1989,23,396,54,22,,,,61,35.45,7,0
+Test,168,India,Delhi,Manoj Prabhakar,1984,1995,39,1600,120,32.65,,,,96,37.3,20,0
+Test,169,India,Telangana,Mohammad Azharuddin,1985,2000,99,6215,199,45.03,,,,0,0,105,0
+Test,170,India,Punjab,Gopal Sharma,1985,1990,5,11,10,3.66,,,,10,41.8,2,0
+Test,171,India,Maharashtra,Lalchand Rajput,1985,1985,2,105,61,26.25,,,,0,0,1,0
+Test,172,India,Karnataka,Sadanand Viswanath,1985,1985,3,31,20,6.2,,,,0,0,11,0
+Test,173,India,Maharashtra,Kiran More,1986,1993,49,1285,73,25.7,,,,0,0,110,20
+Test,174,India,Maharashtra,Chandrakant Pandit,1986,1992,5,171,39,24.42,,,,0,0,14,2
+Test,175,India,Maharashtra,Raju Kulkarni,1986,1987,3,2,2,1,,,,5,45.4,1,0
+Test,176,India,Tamil Nadu,Bharat Arun,1986,1987,2,4,2,4,,,,4,29,2,0
+Test,177,India,Haryana,Raman Lamba,1986,1987,4,102,53,20.4,,,,0,0,5,0
+Test,178,India,Haryana,Arshad Ayub,1987,1989,13,257,57,17.13,,,,41,35.07,2,0
+Test,179,India,Maharashtra,Sanjay Manjrekar,1987,1996,37,2043,218,37.14,,,,0,0,25,1
+Test,180,India,Madhya Pradesh,Narendra Hirwani,1988,1996,17,54,17,5.4,,,,66,30.1,5,0
+Test,181,India,Tamil Nadu,WV Raman,1988,1997,11,448,96,24.88,,,,2,64.5,6,0
+Test,182,India,Delhi,Ajay Sharma,1988,1988,1,53,30,26.5,,,,0,0,1,0
+Test,183,India,Maharashtra,Rashid Patel,1988,1988,1,0,0,0,,,,0,0,1,0
+Test,184,India,Haryana,Sanjeev Sharma,1988,1990,2,56,38,28,,,,6,41.16,1,0
+Test,185,India,Andhra Pradesh,M Venkataramana,1989,1989,1,0,0,0,,,,1,58,1,0
+Test,186,India,Maharashtra,Salil Ankola,1989,1989,1,6,6,6,,,,2,64,0,0
+Test,187,India,Maharashtra,Sachin Tendulkar,1989,2013,198,15837,248,53.86,,,,45,54.64,115,0
+Test,188,India,Delhi,Vivek Razdan,1989,1989,2,6,6,6,,,,5,28.2,0,0
+Test,189,India,Andhra Pradesh,Venkatapathy Raju,1990,2001,28,240,31,10,,,,93,30.72,6,0
+Test,190,India,Delhi,Atul Wassan,1990,1990,4,94,53,23.5,,,,10,50.4,1,0
+Test,191,India,Punjab,Gursharan Singh,1990,1990,1,18,18,18,,,,0,0,2,0
+Test,192,India,Karnataka,Anil Kumble,1990,2008,132,2506,110,17.77,,,,619,29.65,60,0
+Test,193,India,Karnataka,Javagal Srinath,1991,2002,67,1009,76,14.21,,,,236,30.49,22,0
+Test,194,India,West Bengal,Subroto Banerjee,1992,1992,1,3,3,3,,,,3,15.66,0,0
+Test,195,India,Maharashtra,Pravin Amre,1992,1993,11,425,103,42.5,,,,0,0,9,0
+Test,196,India,Haryana,Ajay Jadeja,1992,2000,15,576,96,26.18,,,,0,0,5,0
+Test,197,India,Haryana,Rajesh Chauhan,1993,1998,21,98,23,7,,,,47,39.51,12,0
+Test,198,India,Maharashtra,Vinod Kambli,1993,1995,17,1084,227,54.2,,,,0,0,7,0
+Test,199,India,Uttar Pradesh,Vijay Yadav,1993,1993,1,30,30,30,,,,0,0,1,2
+Test,200,India,Gujarat,Nayan Mongia,1994,2001,44,1442,152,24.03,,,,0,0,99,8
+Test,201,India,Delhi,Aashish Kapoor,1994,1996,4,97,42,19.4,,,,6,42.5,1,0
+Test,202,India,Karnataka,Sunil Joshi,1996,2000,15,352,92,20.7,,,,41,35.85,7,0
+Test,203,India,Maharashtra,Paras Mhambrey,1996,1996,2,58,28,29,,,,2,74,1,0
+Test,204,India,Karnataka,Venkatesh Prasad,1996,2001,33,203,30,7.51,,,,96,35,6,0
+Test,205,India,Punjab,Vikram Rathour,1996,1997,6,131,44,13.1,,,,0,0,12,0
+Test,206,India,Karnataka,Rahul Dravid,1996,2012,164,13288,270,52.31,,,,1,39,210,0
+Test,207,India,West Bengal,Sourav Ganguly,1996,2008,113,7212,239,42.17,,,,32,52.53,71,0
+Test,208,India,Karnataka,David Johnson,1996,1996,2,8,5,4,,,,3,47.66,0,0
+Test,209,India,Andhra Pradesh,V V S Laxman,1996,2012,134,8781,281,45.97,,,,2,63,135,0
+Test,210,India,Karnataka,Dodda Ganesh,1997,1997,4,25,8,6.25,,,,5,57.4,0,0
+Test,211,India,Kerala,Abey Kuruvilla,1997,1997,10,66,35,6.6,,,,25,35.68,0,0
+Test,212,India,Maharashtra,Nilesh Kulkarni,1997,2001,3,5,4,5,,,,2,166,1,0
+Test,213,India,Orissa,Debashish Mohanty,1997,1997,2,0,0,0,,,,4,59.75,0,0
+Test,214,India,Punjab,Harbhajan Singh,1998,2013,100,2202,115,18.5,,,,411,32.38,42,0
+Test,215,India,Punjab,Harvinder Singh,1998,2001,3,6,6,2,,,,4,46.25,0,0
+Test,216,India,Maharashtra,Ajit Agarkar,1998,2006,26,571,109,16.79,,,,58,47.32,6,0
+Test,219,India,Tamil Nadu,Sadagoppan Ramesh,1999,2001,19,1367,143,37.97,,,,0,0,18,0
+Test,220,India,Delhi,Ashish Nehra,1999,2004,17,77,19,5.5,,,,44,42.4,5,0
+Test,221,India,Gujarat,Devang Gandhi,1999,1999,4,204,88,34,,,,0,0,3,0
+Test,222,India,Andhra Pradesh,MSK Prasad,1999,2000,6,106,19,11.77,,,,0,0,15,0
+Test,223,India,Karnataka,Vijay Bharadwaj,1999,2000,3,28,22,9.33,,,,1,107,3,0
+Test,224,India,Maharashtra,Hrishikesh Kanitkar,1999,2000,2,74,45,18.5,,,,0,0,0,0
+Test,225,India,Maharashtra,Wasim Jaffer,2000,2008,31,1944,212,34.1,,,,2,9,27,0
+Test,226,India,Tamil Nadu,Murali Kartik,2000,2004,8,88,43,9.77,,,,24,34.16,2,0
+Test,227,India,Delhi,Nikhil Chopra,2000,2000,1,7,4,3.5,,,,0,0,0,0
+Test,228,India,Uttar Pradesh,Mohammad Kaif,2000,2006,13,624,148,32.84,,,,0,0,14,0
+Test,229,India,Orissa,Shiv Sunder Das,2000,2002,23,1326,110,34.89,,,,0,0,34,0
+Test,230,India,Bihar,Saba Karim,2000,2000,1,15,15,15,,,,0,0,1,0
+Test,231,India,Maharashtra,Zaheer Khan,2000,2012,86,1128,75,12.12,,,,294,32.02,18,0
+Test,232,India,Delhi,Vijay Dahiya,2000,2000,2,2,2,0,,,,0,0,6,0
+Test,233,India,Punjab,Sarandeep Singh,2000,2002,3,43,39,43,,,,10,34,1,0
+Test,234,India,Delhi,Rahul Sanghvi,2001,2001,1,2,2,1,,,,2,39,0,0
+Test,235,India,Maharashtra,Sairaj Bahutule,2001,2001,2,39,21,13,,,,3,67.66,1,0
+Test,236,India,Maharashtra,Sameer Dighe,2001,2001,6,141,47,15.66,,,,0,0,12,2
+Test,237,India,Tamil Nadu,Hemang Badani,2001,2001,4,94,38,15.66,,,,0,0,6,0
+Test,238,India,West Bengal,Deep Dasgupta,2001,2002,8,344,100,28.66,,,,0,0,13,0
+Test,239,India,Delhi,Virender Sehwag,2001,2013,99,8448,319,50.89,,,,40,47.35,81,0
+Test,240,India,Maharashtra,Sanjay Bangar,2001,2002,12,470,100,29.37,,,,7,49,4,0
+Test,241,India,Gujarat,Iqbal Siddiqui,2001,2001,1,29,24,29,,,,1,48,1,0
+Test,242,India,Kerala,Tinu Yohannan,2001,2002,3,13,8,0,,,,5,51.2,1,0
+Test,243,India,Haryana,Ajay Ratra,2002,2002,6,163,115,18.11,,,,0,0,11,2
+Test,244,India,Gujarat,Parthiv Patel,2002,2008,20,683,69,29.69,,,,0,0,41,8
+Test,245,India,Tamil Nadu,Lakshmipathy Balaji,2003,2005,8,51,31,5.66,,,,27,37.18,1,0
+Test,246,India,Delhi,Akash Chopra,2003,2004,10,437,60,23,,,,0,0,15,0
+Test,247,India,Punjab,Yuvraj Singh,2003,2012,38,1849,169,35.55,,,,9,58.88,31,0
+Test,248,India,Gujarat,Irfan Pathan,2003,2008,29,1105,102,31.54,,,,100,32.26,8,0
+Test,249,India,Delhi,Gautam Gambhir,2004,2012,51,3815,206,44.36,,,,0,0,37,0
+Test,250,India,Tamil Nadu,Dinesh Karthik,2004,2010,23,1000,129,27.77,,,,0,0,51,5
+Test,251,India,Jharkhand,Mahendra Singh Dhoni,2005,2013,74,4107,224,39.87,,,,0,4.46,203,32
+Test,252,India,Uttar Pradesh,R P Singh,2006,2011,14,116,30,7.25,,,,40,42.05,6,0
+Test,253,India,Kerala,Shanthakumaran Sreesanth,2006,2011,27,281,35,10.4,,,,87,37.59,5,0
+Test,254,India,Uttar Pradesh,Piyush Chawla,2006,2008,2,5,4,2.5,,,,3,45.66,0,0
+Test,255,India,Gujarat,Munaf Patel,2006,2011,13,60,15,7.5,,,,35,38.54,6,0
+Test,256,India,Uttar Pradesh,V R V Singh,2006,2007,5,47,29,11.75,,,,8,53.37,1,0
+Test,257,India,Maharashtra,Ramesh Powar,2007,2007,2,13,7,6.5,,,,6,19.66,0,0
+Test,258,India,Delhi,Ishant Sharma,2007,2012,45,432,31,10.28,,,,133,37.87,11,0
+Test,259,India,Haryana,Amit Mishra,2008,2011,13,392,84,23.05,,,,43,43.3,6,0
+Test,260,India,Tamil Nadu,Murali Vijay,2008,2011,12,609,139,30.52,,,,0,0,0,0
+Test,261,India,Orissa,Pragyan Ojha,2009,2012,17,74,18,17.8,,,,84,30.38,7,0
+Test,262,India,Tamil Nadu,Subramaniam Badrinath,2010,2010,2,63,56,21,,,,0,0,0,0
+Test,263,India,West Bengal,Wriddhiman Saha,2010,2012,2,74,36,18.5,,,,0,0,2,0
+Test,264,India,Karnataka,Abhimanyu Mithun,2010,2011,4,120,46,24,,,,9,50.66,0,0
+Test,265,India,Uttar Pradesh,Suresh Raina,2010,2011,15,710,120,29.58,,,,13,40.3,20,0
+Test,266,India,Gujarat,Cheteshwar Pujara,2010,2013,13,1180,206,65.55,,,,0,0,10,0
+Test,267,India,Gujarat,Jaydev Unadkat,2010,2010,1,2,1,2,,,,0,0,0,0
+Test,268,India,Delhi,Virat Kohli,2010,2013,18,1175,116,41.96,,,,0,0,23,0
+Test,269,India,Uttar Pradesh,Praveen Kumar,2011,2011,6,149,40,14.9,,,,27,25.81,2,0
+Test,270,India,Tamil Nadu,Abhinav Mukund,2011,2011,5,211,62,21.1,,,,0,0,5,0
+Test,271,India,Tamil Nadu,Ravichandran Ashwin,2011,2013,13,599,103,42.78,,,,75,29.86,2,0
+Test,272,India,Maharashtra,Umesh Yadav,2011,2012,9,36,21,6,,,,32,32.5,2,0
+Test,273,India,Jharkhand,Varun Aaron,2011,2011,1,6,4,6,,,,3,43,0,0
+Test,274,India,Karnataka,Vinay Kumar,2012,2012,1,11,6,5.5,,,,1,73,0,0
+Test,275,India,Gujarat,Ravindra Jadeja,2012,2013,5,97,43,19.4,,,,27,19.85,1,0
+Test,276,India,Uttar Pradesh,Bhuvneshwar Kumar,2013,2013,4,80,38,26.66,,,,6,39.83,0,0
+Test,277,India,Delhi,Shikhar Dhawan,2013,2013,1,187,187,0,,,,0,0,0,0
+Test,278,India,Maharashtra,Ajinkya Rahane,2013,2013,1,0,0,0,,,,0,0,0,0
